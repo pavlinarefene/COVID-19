@@ -1,0 +1,36 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.giannis-btn{
+  background-color: pink;
+  border-color: pink;
+}
+.giannis-btn:hover{
+  background-color: green;
+}
+.second-row-home{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.box-item{
+  margin-bottom: 20px;
+}
+.footer-section{
+  background-color: #343a40;
+  color:#fff;
+  padding: 2rem 1.5rem;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #000;
+  position: absolute;
+  border-radius: 15px;
+}
+
+
