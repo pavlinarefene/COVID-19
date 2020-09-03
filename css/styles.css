@@ -24,7 +24,7 @@ body {
 .footer-section{
   background-color: #3282b8;
   color: #fff;
-  padding: 0.01rem 1.5rem;
+  padding: 2em 1.5rem;
 }
 
 .circle {
@@ -72,4 +72,8 @@ body {
 
 .footer-link{
   color: #fff;
+}
+
+.image-section{
+ padding: 3rem 1.5rem;
 }
