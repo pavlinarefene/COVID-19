@@ -4,7 +4,7 @@ body {
 .navbar-section{
   background-color: #3282b8;
   color: #fff;
-  padding: 1rem 1rem;
+  padding: -3rem 1rem;
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -76,4 +76,13 @@ body {
 
 .image-section{
  padding: 3rem 1.5rem;
+}
+
+.contact-section{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.contact-link{
+  color: #000;
 }
